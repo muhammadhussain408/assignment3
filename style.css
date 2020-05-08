@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+*{
+    list-style: none;
+}
+
+ .menu ul {
+    list-style: none;
+}
+
+.menu ul li{
+    background-color:snow;
+    border: 1px solid white;
+    width: 120px;
+    text-align: center;
+    height: 35px;
+    line-height: 35px;
+    float: left;
+}
+
+.menu ul li a
+
+{
+    text-decoration: none;
+    color:black;
+    display: block;
+}
+.menu ul li :hover{
+    background-color: rgb(63, 63, 117);
+    color: white;
+    border-radius: 15px;
+}
+
+.head-butten a{
+    padding: 2px;
+}
+
+.introduction{
+    text-align: justify;
+}
+
+.Separator{
+    width: 100px;
+    height:2px ;
+    background-color: green;
+    display: block;
+}
+
+
+
+.border{
+    border: greenyellow;
+}
+
+
+
+
+.done{
+    background: #eee;
+}
+
+
+.END{
+    background-color: rgb(49, 42, 42);
+    color: white;
+}
+
+.head-office{
+    text-align: left;
+}
+
+.murder{
+    line-height: 15px;
+    padding: 2px;
+    text-align: justify;
+}
+
+
+.moredatil{
+    color: rgb(78, 233, 78);
+    background: black;
+    text-align: center;
+    height: 35px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.supper{
+    background: black;
+    color: yellow;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
